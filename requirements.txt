@@ -1,0 +1,4 @@
+azure-cognitiveservices-vision-computervision==0.7.0
+gradio
+python-dotenv
+translate
